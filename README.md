@@ -1,5 +1,5 @@
 ## Hey there! Sweta here :purple_heart:
-![One step at a time](https://github.com/swetadash0610/swetadash0610/blob/main/undraw_web_development_w2vv.svg?raw=true)
+
 - 😄 Pronouns: She/Her
 - ⚡ Quote of the day: If it works, do not touch it.
 
