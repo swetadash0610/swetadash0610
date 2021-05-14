@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hey there! Sweta here :purple_heart:
+<hr>
 
 - 😄 Pronouns: She/Her
 - ⚡ Quote of the day: If it works, do not touch it.
