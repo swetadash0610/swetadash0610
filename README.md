@@ -1,5 +1,5 @@
 ## Hey there! Sweta here :purple_heart:
-![](https://komarev.com/ghpvc/?username=swetadash0610&color=dc143c&style=plastic)
+![](https://komarev.com/ghpvc/?username=swetadash0610&color=blue&style=plastic)
 
 - 😄 Pronouns: She/Her
 - ⚡ Quote of the day: If it works, do not touch it.
