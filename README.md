@@ -6,7 +6,7 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=swetadash0610&count_private=true&show_icons=true&theme=react&hide=stars,issues" />
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=swetadash0610&count_private=true&show_icons=true&theme=react&hide=stars,issues" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swetadash0610&layout=compact&theme=react" />
