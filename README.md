@@ -1,5 +1,5 @@
 ## Hey there! Sweta here :purple_heart:
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fswetadash0610%2Fhit-counter&count_bg=%230CDD8D&title_bg=%2356136F&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+![](https://komarev.com/ghpvc/?username=swetadash0610&color=dc143c&style=plastic)
 
 - 😄 Pronouns: She/Her
 - ⚡ Quote of the day: If it works, do not touch it.
